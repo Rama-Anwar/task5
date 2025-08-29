@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:task5/constants.dart';
-import 'package:task5/data/sampleStoreData.dart';
+
 
 class Footer extends StatelessWidget {
   Footer({required this.category});

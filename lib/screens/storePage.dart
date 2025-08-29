@@ -1,13 +1,9 @@
-import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:task5/constants.dart';
-import 'package:task5/helperFunctions.dart/get_courses_by_category.dart';
 import 'package:task5/helperFunctions.dart/get_filtered_courses.dart';
 import 'package:task5/models/courseModel.dart';
 import 'package:task5/widgets/categoriesRow.dart';
-import 'package:task5/widgets/courseCard.dart';
 import 'package:task5/widgets/coursesListBuilder.dart';
 import 'package:task5/widgets/footer.dart';
 import 'package:task5/widgets/header.dart';

@@ -3,8 +3,7 @@ import 'package:task5/constants.dart';
 import 'package:task5/screens/storePage.dart';
 import 'package:task5/widgets/circularBackground.dart';
 import 'package:task5/widgets/favCourseListBuilder.dart';
-import 'package:task5/widgets/favoriteCourseCard.dart';
-import 'package:task5/widgets/header.dart';
+
 
 class FavoritesPage extends StatelessWidget {
   FavoritesPage({super.key});

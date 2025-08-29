@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:task5/constants.dart';
 import 'package:task5/widgets/arrowIconBtn.dart';
 import 'package:task5/widgets/courseImage.dart';
